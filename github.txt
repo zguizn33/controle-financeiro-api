@@ -1,1 +1,1 @@
-https://github.com/zguizn33/controle-financeiro-api.git
+https://github.com/zguizn33/controle-financeiro-api
